@@ -1,8 +1,15 @@
-<root id="444" name="Dejvi">
-    <order id="444" name="Dejvi">
-        <amount>99</amount>
+<root team="inter" name="Dejvi">
+    <order id="444">
+        <amount test="test">99</amount>
+        <amount class="test"/>
+    </order>
+    <order id="555">
+        <amount id="amountComplete">500</amount>
     </order> 
     <order id="333">
-        <amount>500</amount>
+        <amount>100</amount>
+    </order>  
+    <order id="222">
+        <amount>50</amount>
     </order> 
 </root>
